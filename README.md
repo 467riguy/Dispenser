@@ -1,28 +1,19 @@
 # Celestial Dispenser Bot
-BOT
-
+This a template dispenser bot you can use for your discord server.
 # How to use
 <li>Add your bot token on main.py</li>
-<li>Add links on links.py</li>
-<li>Add your user id for perms to use command(Not teaching how)</li>
-THEN..<br>
+<li>Add your links on the links.py file</li>
+<li>Add your user ID to get perms to use the bot</li>
+then...<br>
 
 ```
 pip install discord.py
 python main.py
 ```
-Finally.
+Finally...
 <li>If you want to use slash commands, type `!sync` and then refresh discord.</li>
 <br>
 
-
-# Rules:
-- When you forked this repo please make sure to have a credit at the end of README.MD file it should be "Credit to Celestial"
-- And when on creating the bot the bot bio also should have credit "Based on Celestial dispenser, Credit to Celestial"
-- Make sure to have our discord server in the bio of the bot just use ".gg/tBfD5KN45B"
-- Make sure not to use the bot to leak links **Enjoy**
-  **Follow all this rules and you are good to use your amazing dispenser**
-
-# Things to Add
-<li>Report Button</li>
-<li>Cooldown</li>
+# Features
+<li>Easily add links</li>
+<li>Cooldown to avoid rate limits</li>
